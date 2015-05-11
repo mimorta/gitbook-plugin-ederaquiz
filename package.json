@@ -1,0 +1,15 @@
+{
+  "name": "gitbook-plugin-ederaquiz",
+  "version": "1.0.0",
+  "description": "adds multiple choice and check boxes questions",
+  "author": {
+    "name": "Petr Kostukevich"
+  },
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/chudaol/gitbook-plugin-addcssjs"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  }
+}
